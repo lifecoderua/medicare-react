@@ -2,7 +2,7 @@ import * as React from 'react';
 import './App.css';
 
 import logo from './logo.svg';
-import Hello from "./components/StatefulHello";
+import Hello from "./components/Hello";
 
 class App extends React.Component {
   public render() {
